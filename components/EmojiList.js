@@ -10,7 +10,6 @@ const EmojiList = ({ onSelect, onCloseModal }) => {
     require("../assets/images/emoji5.png"),
     require("../assets/images/emoji6.png"),
   ]);
-  console.log("🚀 ~ emoji:", emoji);
 
   return (
     <FlatList
